@@ -1,0 +1,4 @@
+Invoking command in '/home/rosuser/ros2_ws/src/robot2wd/build/robot2wd': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/src/robot2wd/build/robot2wd -- -j4 -l4
+Invoked command in '/home/rosuser/ros2_ws/src/robot2wd/build/robot2wd' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/src/robot2wd/build/robot2wd -- -j4 -l4
+Invoking command in '/home/rosuser/ros2_ws/src/robot2wd/build/robot2wd': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/src/robot2wd/build/robot2wd
+Invoked command in '/home/rosuser/ros2_ws/src/robot2wd/build/robot2wd' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/src/robot2wd/build/robot2wd

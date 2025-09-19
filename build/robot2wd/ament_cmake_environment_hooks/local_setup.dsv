@@ -1,0 +1,2 @@
+source;share/robot2wd/environment/ament_prefix_path.sh
+source;share/robot2wd/environment/path.sh

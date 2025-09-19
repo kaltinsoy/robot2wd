@@ -1,0 +1,26 @@
+[0.032s] Invoking command in '/home/rosuser/ros2_ws/src/robot2wd/build/robot2wd': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/src/robot2wd/build/robot2wd -- -j4 -l4
+[0.092s] Invoked command in '/home/rosuser/ros2_ws/src/robot2wd/build/robot2wd' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ros2_ws/src/robot2wd/build/robot2wd -- -j4 -l4
+[0.107s] Invoking command in '/home/rosuser/ros2_ws/src/robot2wd/build/robot2wd': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/src/robot2wd/build/robot2wd
+[0.119s] -- Install configuration: ""
+[0.120s] -- Execute custom install script
+[0.120s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/config/empty.yaml
+[0.121s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/description/robot.urdf.xacro
+[0.121s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/description/robot_core.xacro
+[0.122s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/launch/rsp.launch.py
+[0.122s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/worlds/empty.world
+[0.123s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/ament_index/resource_index/package_run_dependencies/robot2wd
+[0.123s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/ament_index/resource_index/parent_prefix_path/robot2wd
+[0.124s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/environment/ament_prefix_path.sh
+[0.124s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/environment/ament_prefix_path.dsv
+[0.124s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/environment/path.sh
+[0.125s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/environment/path.dsv
+[0.125s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/local_setup.bash
+[0.126s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/local_setup.sh
+[0.126s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/local_setup.zsh
+[0.126s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/local_setup.dsv
+[0.127s] -- Symlinking: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/package.dsv
+[0.141s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/ament_index/resource_index/packages/robot2wd
+[0.141s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/cmake/robot2wdConfig.cmake
+[0.141s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/cmake/robot2wdConfig-version.cmake
+[0.142s] -- Up-to-date symlink: /home/rosuser/ros2_ws/src/robot2wd/install/robot2wd/share/robot2wd/package.xml
+[0.144s] Invoked command in '/home/rosuser/ros2_ws/src/robot2wd/build/robot2wd' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ros2_ws/src/robot2wd/build/robot2wd

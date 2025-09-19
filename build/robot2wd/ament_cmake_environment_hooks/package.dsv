@@ -1,0 +1,4 @@
+source;share/robot2wd/local_setup.bash
+source;share/robot2wd/local_setup.dsv
+source;share/robot2wd/local_setup.sh
+source;share/robot2wd/local_setup.zsh

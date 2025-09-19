@@ -1,0 +1,1 @@
+/home/rosuser/ros2_ws/src/robot2wd/build/robot2wd/ament_cmake_core/robot2wdConfig-version.cmake
